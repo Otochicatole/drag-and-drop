@@ -4,7 +4,7 @@ import tailwindcss from 'tailwindcss';
 
 export default defineConfig({
   plugins: [react()],
-  base: 'https://otochicatole.github.io/drag-and-drop/',
+  base: 'https://otochicatole.github.io/draganddrop/',
   css: {
     postcss: { 
       plugins: [tailwindcss()],
