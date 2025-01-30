@@ -36,7 +36,7 @@ const LoveLetter = () => {
       <div className="body"></div>
       <div className={`letter text-black ${isFullSize ? 'fullSize' : ''}`}>
         Hola mi reyna🖤,<br />
-        hoy queria decirte lo importante que sos para mi, espero que este simple gesto te guste<br />te amoooo :)<br />
+        hoy queria decirte lo importante que sos para mi, espero que este simple gesto te guste<br />te amooooo :)<br />
         gracias por ser mi todo,<br />
         Te ama con toda el alma, tu novio. <br />
         Gracias por ser mi todo, mi amor y por hacerme feliz.
